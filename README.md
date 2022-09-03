@@ -1,6 +1,6 @@
 # CADENTIC®
 
-# webdev
+# Hardcore Webdev
 simply strapi with next material ui (basics) 
 this is developed with strapi axios mysql next 
 
