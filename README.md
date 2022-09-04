@@ -21,7 +21,8 @@ we used it as an data delivery purposes.
   </a>
 </p>
 
-<a href="https://github.com/cadentic"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=cadentic&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/cadentic"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=cadentic&show_icons=true&theme=synthwave" align="right" height="150" /></a>
+
 
 I am an Oracle DBA & Oracle E-Business Suit DBA, worked heavily with the TALL stuff in densed projects of Oracle DBA & E-Business Suit DBA. I work for [CADENTIC®](https://cadentic.net) as Founder and self-employed, trying my best in developing an innovative prototype for quantum database!
 
