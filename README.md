@@ -9,7 +9,7 @@ this is a strapi project which is created on nextjs , laravel 9.x and strapi 4
 strapi cms is necessery for data delivery purposes. 
 we used it as an data delivery purposes. 
 
-## 🦒 Hi! My name is SAYANTAN CAKRABORTY [CADENTIC](https://twitter.com/neutralist2022)
+## 🦒 Hi! My name is SAYANTAN CAKRABORTY creator of [CADENTIC® , ZOQOLO® , CADENTIC ZETTAGIGA™ , CADENTIC ZETTADATEN ™ ](https://twitter.com/neutralist2022)
 
 <p>
   <a href="https://twitter.com/neutralist2022">
