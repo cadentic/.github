@@ -4,7 +4,7 @@
 simply strapi with next material ui (basics) 
 this is developed with strapi axios mysql next 
 
- We are with  wordpress , magento , moodle Laravel, React.js, Nuxt.js, Next.js, Node.js, Express.js, Tailwind
+ We are with  wordpress , magento , moodle , Laravel, React.js, Nuxt.js, Next.js, Node.js, Express.js, Tailwind
 
 this is a strapi project which is created on nextjs , laravel 9.x and strapi 4
 strapi cms is necessery for data delivery purposes. 
