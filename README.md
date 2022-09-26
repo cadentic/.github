@@ -27,4 +27,6 @@ we used it as an data delivery purposes.
 
 I am an Oracle DBA & Oracle E-Business Suit DBA, worked heavily with the TALL stuff in densed projects of Oracle DBA & E-Business Suit DBA. I work for [CADENTIC®](https://cadentic.net) as Founder and self-employed, trying my best in developing an innovative prototype for quantum database!
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 ### 📦 I'm currently working on..... 
